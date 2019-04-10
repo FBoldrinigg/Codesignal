@@ -14,7 +14,7 @@ Below we will define an <code>n</code>-interesting polygon. Your task is to find
 <code>shapeArea(n) = 5</code>;</li>
 <li>For <code>n = 3</code>, the output should be<br>
 <code>shapeArea(n) = 13</code>.</li>
-![myimage-alt-tag](https://imgur.com/a/st6X0Ex)
+<img src="https://imgur.com/a/st6X0Ex">
 
 #6
 Ratiorg got <code>statues</code> of <em>different</em> sizes as a present from CodeMaster for his birthday, each statue having an non-negative integer size. Since he likes to make things perfect, he wants to arrange them from smallest to largest so that each statue will be bigger than the previous one exactly by <code>1</code>. He may need some additional statues to be able to accomplish that. Help him figure out the minimum number of additional statues needed.</p>
