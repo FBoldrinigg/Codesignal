@@ -56,5 +56,5 @@ After becoming famous, the CodeBots decided to move into a new building together
 </code></pre>
 <p>the output should be<br>
 <code>matrixElementsSum(matrix) = 9</code>.</p>
-<p><img src="https://codesignal.s3.amazonaws.com/tasks/matrixElementsSum/img/example1.png?_tm=1551538346086" alt="example 1"></p>
+<p><img src="https://i.imgur.com/2WovwEr.png" alt="example 1"></p>
 <p>There are several haunted rooms, so we'll disregard them as well as any rooms beneath them. Thus, the answer is <code>1 + 5 + 1 + 2 = 9</code>.</p>
