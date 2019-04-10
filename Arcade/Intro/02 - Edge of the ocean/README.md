@@ -1,10 +1,12 @@
-#4<p>Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.</p>
+#4
+<p>Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.</p>
 <p><span style="color:#44BFA3;font-size:1.4em;">Example</span></p>
 <p>For <code>inputArray = [3, 6, -2, -5, 7, 3]</code>, the output should be<br>
 <code>adjacentElementsProduct(inputArray) = 21</code>.</p>
 <p><code>7</code> and <code>3</code> produce the largest product.</p>
 
-#5Below we will define an <code>n</code>-interesting polygon. Your task is to find the area of a polygon for a given <code>n</code>.</p>
+#5
+Below we will define an <code>n</code>-interesting polygon. Your task is to find the area of a polygon for a given <code>n</code>.</p>
 <p>A <code>1</code>-interesting polygon is just a square with a side of length <code>1</code>. An <code>n</code>-interesting polygon is obtained by taking the <code>n - 1</code>-interesting polygon and appending <code>1</code>-interesting polygons to its rim, side by side. You can see the <code>1</code>-, <code>2</code>-, <code>3</code>- and <code>4</code>-interesting polygons in the picture below.</p>
 <p><img src="https://codesignal.s3.amazonaws.com/tasks/shapeArea/img/area.png?_tm=1551538776748" alt=""></p>
 <p><span style="color:#44BFA3;font-size:1.4em;">Example</span></p>
@@ -14,13 +16,15 @@
 <li>For <code>n = 3</code>, the output should be<br>
 <code>shapeArea(n) = 13</code>.</li>
 
-#6Ratiorg got <code>statues</code> of <em>different</em> sizes as a present from CodeMaster for his birthday, each statue having an non-negative integer size. Since he likes to make things perfect, he wants to arrange them from smallest to largest so that each statue will be bigger than the previous one exactly by <code>1</code>. He may need some additional statues to be able to accomplish that. Help him figure out the minimum number of additional statues needed.</p>
+#6
+Ratiorg got <code>statues</code> of <em>different</em> sizes as a present from CodeMaster for his birthday, each statue having an non-negative integer size. Since he likes to make things perfect, he wants to arrange them from smallest to largest so that each statue will be bigger than the previous one exactly by <code>1</code>. He may need some additional statues to be able to accomplish that. Help him figure out the minimum number of additional statues needed.</p>
 <p><span style="color:#44BFA3;font-size:1.4em;">Example</span></p>
 <p>For <code>statues = [6, 2, 3, 8]</code>, the output should be<br>
 <code>makeArrayConsecutive2(statues) = 3</code>.</p>
 <p>Ratiorg needs statues of sizes <code>4</code>, <code>5</code> and <code>7</code>.</p>
 
-#7<p>Given a sequence of integers as an array, determine whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array.</p>
+#7
+<p>Given a sequence of integers as an array, determine whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array.</p>
 <p><em>Note:</em> sequence <code>a<sub>0</sub></code>, <code>a<sub>1</sub></code>, ..., <code>a<sub>n</sub></code> is considered to be a strictly increasing if <code>a<sub>0</sub> &lt; a<sub>1</sub> &lt; ... &lt; a<sub>n</sub></code>. Sequence containing only one element is also considered to be strictly increasing.</p>
 <p><span style="color:#44BFA3;font-size:1.4em;">Example</span></p>
 <ul>
@@ -34,7 +38,8 @@
 <code>almostIncreasingSequence(sequence) = true</code>.</p>
 <p>You can remove <code>3</code> from the array to get the strictly increasing sequence <code>[1, 2]</code>. Alternately, you can remove <code>2</code> to get the strictly increasing sequence <code>[1, 3]</code>.</p>
 
-#8After becoming famous, the CodeBots decided to move into a new building together. Each of the rooms has a different cost, and some of them are free, but there's a rumour that all the free rooms are haunted! Since the CodeBots are quite superstitious, they refuse to stay in any of the free rooms, <strong>or any of the rooms below any of the free rooms</strong>.</p>
+#8
+After becoming famous, the CodeBots decided to move into a new building together. Each of the rooms has a different cost, and some of them are free, but there's a rumour that all the free rooms are haunted! Since the CodeBots are quite superstitious, they refuse to stay in any of the free rooms, <strong>or any of the rooms below any of the free rooms</strong>.</p>
 <p>Given <code>matrix</code>, a rectangular matrix of integers, where each value represents the cost of the room, your task is to return the total sum of all rooms that are suitable for the CodeBots (ie: add up all the values that don't appear below a <code>0</code>).</p>
 <p><strong>Example</strong></p>
 <ul>
