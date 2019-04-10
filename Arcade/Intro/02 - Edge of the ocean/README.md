@@ -8,7 +8,7 @@
 #5
 Below we will define an <code>n</code>-interesting polygon. Your task is to find the area of a polygon for a given <code>n</code>.</p>
 <p>A <code>1</code>-interesting polygon is just a square with a side of length <code>1</code>. An <code>n</code>-interesting polygon is obtained by taking the <code>n - 1</code>-interesting polygon and appending <code>1</code>-interesting polygons to its rim, side by side. You can see the <code>1</code>-, <code>2</code>-, <code>3</code>- and <code>4</code>-interesting polygons in the picture below.</p>
-<p><img src="https://imgur.com/a/st6X0Ex" alt=""></p>
+<p>![alt text](https://imgur.com/a/st6X0Ex)</p>
 <p><span style="color:#44BFA3;font-size:1.4em;">Example</span></p>
 <ul>
 <li>For <code>n = 2</code>, the output should be<br>
