@@ -8,13 +8,13 @@
 #5
 Below we will define an <code>n</code>-interesting polygon. Your task is to find the area of a polygon for a given <code>n</code>.</p>
 <p>A <code>1</code>-interesting polygon is just a square with a side of length <code>1</code>. An <code>n</code>-interesting polygon is obtained by taking the <code>n - 1</code>-interesting polygon and appending <code>1</code>-interesting polygons to its rim, side by side. You can see the <code>1</code>-, <code>2</code>-, <code>3</code>- and <code>4</code>-interesting polygons in the picture below.</p>
-<p>![alt text](https://imgur.com/a/st6X0Ex)</p>
 <p><span style="color:#44BFA3;font-size:1.4em;">Example</span></p>
 <ul>
 <li>For <code>n = 2</code>, the output should be<br>
 <code>shapeArea(n) = 5</code>;</li>
 <li>For <code>n = 3</code>, the output should be<br>
 <code>shapeArea(n) = 13</code>.</li>
+![myimage-alt-tag](https://imgur.com/a/st6X0Ex)
 
 #6
 Ratiorg got <code>statues</code> of <em>different</em> sizes as a present from CodeMaster for his birthday, each statue having an non-negative integer size. Since he likes to make things perfect, he wants to arrange them from smallest to largest so that each statue will be bigger than the previous one exactly by <code>1</code>. He may need some additional statues to be able to accomplish that. Help him figure out the minimum number of additional statues needed.</p>
