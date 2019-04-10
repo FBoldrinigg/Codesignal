@@ -46,7 +46,7 @@ Ratiorg got <code>statues</code> of <em>different</em> sizes as a present from C
 </li>
 <li>
 <p>For <code>sequence = [1, 3, 2]</code>, the output should be<br>
-<code>almostIncreasingSequence(sequence) = true</code>.</p>
+<code>almostIncreasingSequence(sequence) = true</code>.</p></li>
 <p>You can remove <code>3</code> from the array to get the strictly increasing sequence <code>[1, 2]</code>. Alternately, you can remove <code>2</code> to get the strictly increasing sequence <code>[1, 3]</code>.</p>
 
 #8
