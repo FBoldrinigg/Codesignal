@@ -10,7 +10,7 @@
 </code></pre>
 <p>the output should be<br>
 <code>matrixElementsSum(matrix) = 9</code>.</p>
-<p><img src="https://codesignal.s3.amazonaws.com/tasks/matrixElementsSum/img/example1.png?_tm=1551538346086" alt="example 1"></p>
+<p><img src="https://raw.githubusercontent.com/FBoldrinigg/Codesignal/master/Arcade/Images/08-matrixElementsSum1.png" alt="example 1"></p>
 <p>There are several haunted rooms, so we'll disregard them as well as any rooms beneath them. Thus, the answer is <code>1 + 5 + 1 + 2 = 9</code>.</p>
 </li>
 <li>
@@ -21,7 +21,7 @@
 </code></pre>
 <p>the output should be<br>
 <code>matrixElementsSum(matrix) = 9</code>.</p>
-<p><img src="https://codesignal.s3.amazonaws.com/tasks/matrixElementsSum/img/example2.png?_tm=1551538346405" alt="example 2"></p>
+<p><img src="https://raw.githubusercontent.com/FBoldrinigg/Codesignal/master/Arcade/Images/08-matrixElementsSum2.png" alt="example 2"></p>
 <p>Note that the free room in the final column makes the full column unsuitable for bots (not just the room directly beneath it). Thus, the answer is <code>1 + 1 + 1 + 5 + 1 = 9</code>.</p>
 </li>
 </ul>
