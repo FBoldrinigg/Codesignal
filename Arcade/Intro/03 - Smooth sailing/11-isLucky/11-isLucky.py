@@ -2,7 +2,6 @@
 
 def isLucky(n):
     digits = []
-    half = 0
     for x in str(n):
         digits.append(int(x))
     half = len(digits)//2
