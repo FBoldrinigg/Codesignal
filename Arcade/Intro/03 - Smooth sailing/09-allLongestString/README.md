@@ -18,4 +18,4 @@
 <p><strong>[output] array.string</strong></p>
 <ul>
 <li>Array of the longest strings, stored in the same order as in the <code>inputArray</code>.</li>
-<&div>
+</div>

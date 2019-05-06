@@ -27,4 +27,4 @@ Because <code>"foo(bar(baz))blim"</code> becomes <code>"foo(barzab)blim"</code> 
 <p><strong>[output] string</strong></p>
 <ul>
 <li>Return <code>inputString</code>, with all the characters that were in parentheses reversed.</li>
-<&div>
+</div>
