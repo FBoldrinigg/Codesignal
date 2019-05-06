@@ -11,7 +11,7 @@
                        [1, 1, 1]]
 </code></pre>
 <p>Check out the image below for better understanding:</p>
-<p><img src="https://codesignal.s3.amazonaws.com/tasks/minesweeper/img/example.png?_tm=1551538408843" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/FBoldrinigg/Codesignal/master/Arcade/Images/24-Minesweeper.png" alt=""></p>
 <p><span style="color:#44BFA3;font-size:1.4em;">Input/Output</span></p>
 <ul>
 <li>
