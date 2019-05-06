@@ -3,7 +3,7 @@
 def avoidObstacles(inputArray):
     inputArray.sort()
     maxD = 2
-    for x in range(len(inputArray)):
+    for _ in range(len(inputArray)):
         for y in range(len(inputArray)): 
             while inputArray[y] % maxD == 0:
                 maxD += 1
