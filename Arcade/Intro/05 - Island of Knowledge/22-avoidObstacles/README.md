@@ -5,7 +5,7 @@
 <p>For <code>inputArray = [5, 3, 6, 7, 9]</code>, the output should be<br>
 <code>avoidObstacles(inputArray) = 4</code>.</p>
 <p>Check out the image below for better understanding:</p>
-<p><img src="https://codesignal.s3.amazonaws.com/tasks/avoidObstacles/img/example.png?_tm=1551432749641" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/FBoldrinigg/Codesignal/master/Arcade/Images/22-avoidObstacles.png" alt=""></p>
 <p><span style="color:#44BFA3;font-size:1.4em;">Input/Output</span></p>
 <ul>
 <li>
